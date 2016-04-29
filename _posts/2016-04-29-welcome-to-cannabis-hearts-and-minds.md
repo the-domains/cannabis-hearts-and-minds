@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T13:26:36.191Z'
-dateModified: '2016-04-29T13:21:04.227Z'
-title: 'Cannabis is safe & beautiful. '
+datePublished: '2016-04-29T19:46:35.982Z'
+dateModified: '2016-04-29T19:10:30.403Z'
+title: 'Cannabis is safe & beautiful.'
 author: []
 sourcePath: _posts/2016-04-29-welcome-to-cannabis-hearts-and-minds.md
 published: true
