@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Cannabis Hearts & Minds]]></title>
         <description><![CDATA[Cannabis Hearts & Minds]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cannabis-hearts-and-minds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 12:16:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 12:24:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cannabis-hearts-and-minds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97c81c54-8433-4447-b3aa-0290fb5bd335.jpg">]]></description>
-            <link>undefinedwelcome-to-cannabis-hearts-and-minds/index.html</link>
+            <link>https://thegrid.ai/cannabis-hearts-and-minds/welcome-to-cannabis-hearts-and-minds/index.html</link>
             <guid isPermaLink="false">ed25eb4e-efc5-4882-b81e-bd6c19a32a1a</guid>
-            <pubDate>Fri, 29 Apr 2016 12:15:34 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 12:23:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
