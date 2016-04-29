@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Key cannabis scientists met at the Harvard School of Medicine in April, 2016. Their purpose was to share groundbreaking research in personalized medicine, mobile technologies, and cannabinoid-based therapies. '
-datePublished: '2016-04-29T13:40:08.605Z'
-dateModified: '2016-04-29T13:34:45.831Z'
+datePublished: '2016-04-29T18:08:50.180Z'
+dateModified: '2016-04-29T18:08:30.690Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-cannabis-heavyweights-converge-at-harvard.md
@@ -22,6 +22,8 @@ url: cannabis-heavyweights-converge-at-harvard/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67901a24-4f7a-4692-ac28-a97b7a590d4f.jpg)
+
 # Cannabis Heavyweights Converge at Harvard
 
 Key cannabis scientists met at the Harvard School of Medicine in April, 2016\. Their purpose was to share groundbreaking research in personalized medicine, mobile technologies, and cannabinoid-based therapies. 
