@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T19:34:51.202Z'
-dateModified: '2016-04-29T19:33:40.063Z'
+datePublished: '2016-04-29T19:45:14.144Z'
+dateModified: '2016-04-29T19:35:00.525Z'
 title: Cannabis Still Out of Reach for Many
 author: []
 authors: []
@@ -23,4 +23,6 @@ _type: Article
 
 ---
 # Cannabis Still Out of Reach for Many
+
+The world is listening, though.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a8d5f51-d49b-4c90-b5db-516aab4bc851.jpg)
