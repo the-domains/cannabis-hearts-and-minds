@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T19:45:14.144Z'
-dateModified: '2016-04-29T19:35:00.525Z'
+datePublished: '2016-04-29T20:54:03.686Z'
+dateModified: '2016-04-29T19:45:22.553Z'
 title: Cannabis Still Out of Reach for Many
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
@@ -25,4 +27,4 @@ _type: Article
 # Cannabis Still Out of Reach for Many
 
 The world is listening, though.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a8d5f51-d49b-4c90-b5db-516aab4bc851.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed1bde6f9bf82302254deffbfa5d49c45281eb3f.jpg)
