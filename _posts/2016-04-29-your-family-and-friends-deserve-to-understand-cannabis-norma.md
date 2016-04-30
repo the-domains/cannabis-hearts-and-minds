@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Cannabis Hearts & Minds is home for relatable, vivid, state-of-the-science content on legal cannabis. CHM is your first stop for the most compelling, heart-winning, mind-changing content on the web.'
-datePublished: '2016-04-29T20:54:34.100Z'
-dateModified: '2016-04-29T19:10:19.877Z'
+datePublished: '2016-04-30T09:37:05.065Z'
+dateModified: '2016-04-30T09:37:04.096Z'
 title: 'Your family and friends deserve to benefit from cannabis normalization. '
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-29-your-family-and-friends-deserve-to-understand-cannabis-norma.md
 published: true
 authors: []
