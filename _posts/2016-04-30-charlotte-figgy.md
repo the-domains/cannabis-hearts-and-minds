@@ -16,8 +16,8 @@ keywords:
   - lessons
   - tedxjaffa
 description: 'Josh will sift through the propaganda, fear and greed encompassing medical marijuana. Recently featured on CNN, Josh and his brothers developed a non-psychotropic strain of marijuana which is drastically reducing seizures for many pediatric epilepsy patients in Colorado.'
-datePublished: '2016-04-30T09:23:41.131Z'
-dateModified: '2016-04-30T09:22:32.364Z'
+datePublished: '2016-04-30T11:09:40.253Z'
+dateModified: '2016-04-30T09:23:49.725Z'
 author:
   - name: TEDx Talks
     url: 'https://www.youtube.com/user/TEDxTalks'
@@ -61,6 +61,8 @@ app_links:
     namespace: google
     type: ios
 title: Charlotte Figgy
+sourcePath: _posts/2016-04-30-charlotte-figgy.md
+published: true
 authors: []
 publisher:
   name: YouTube
@@ -68,8 +70,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-04-30-charlotte-figgy.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
