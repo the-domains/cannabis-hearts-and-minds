@@ -16,8 +16,8 @@ keywords:
   - lessons
   - tedxjaffa
 description: 'Josh will sift through the propaganda, fear and greed encompassing medical marijuana. Recently featured on CNN, Josh and his brothers developed a non-psychotropic strain of marijuana which is drastically reducing seizures for many pediatric epilepsy patients in Colorado.'
-datePublished: '2016-04-30T11:12:17.527Z'
-dateModified: '2016-04-30T11:09:48.493Z'
+datePublished: '2016-04-30T11:20:48.985Z'
+dateModified: '2016-04-30T11:12:25.694Z'
 author:
   - name: TEDx Talks
     url: 'https://www.youtube.com/user/TEDxTalks'
