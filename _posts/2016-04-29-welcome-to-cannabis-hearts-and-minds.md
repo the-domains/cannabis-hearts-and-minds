@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T11:11:49.452Z'
-dateModified: '2016-04-29T20:55:00.840Z'
+datePublished: '2016-04-30T11:12:05.823Z'
+dateModified: '2016-04-30T11:12:00.639Z'
 title: 'Cannabis is safe & beautiful.'
 author:
   - name: ''
